@@ -1,0 +1,13 @@
+KATALOG PERPUSTAKAAN POLITEKNIK NEGERI MEDAN
+Tanggal cetak: 2026-10-22
+
+KODE       JUDUL                        JENIS          TAHUN  STATUS              
+----------------------------------------------------------------------------------
+BK-001     Java How to Program          BukuCetak      2022   Layak dipinjam      
+BK-002     Basis Data Relasional        BukuCetak      2021   Tidak layak         
+MJ-001     Info Teknologi Edisi 88      Majalah        2026   Tidak layak         
+MJ-002     Info Teknologi Edisi 87      Majalah        2026   Layak dipinjam      
+BD-001     Panduan Pemrograman Java     BerkasDigital  2024   Layak dipinjam      
+BD-002     Jurnal Rekayasa Perangkat    BerkasDigital  2025   Layak dipinjam      
+
+Jumlah koleksi: 6
